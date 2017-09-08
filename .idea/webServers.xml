@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="df75254e-5c56-47a0-b5b2-dea46bf0c421" name="SnakeSideCar (project level)" url="http://10.88.88.56:8080">
-        <fileTransfer host="10.88.88.56" port="21">
+        <fileTransfer host="10.88.88.56" port="21" rootFolder="/var/www/html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
